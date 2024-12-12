@@ -1,0 +1,14 @@
+C:\Users\Sefa Şahiner\source\repos\EgeBalik\EgeBalik\obj\Debug\net8.0\EgeBalik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sefa Şahiner\source\repos\EgeBalik\EgeBalik\obj\Debug\net8.0\EgeBalik.AssemblyInfoInputs.cache
+C:\Users\Sefa Şahiner\source\repos\EgeBalik\EgeBalik\obj\Debug\net8.0\EgeBalik.AssemblyInfo.cs
+C:\Users\Sefa Şahiner\source\repos\EgeBalik\EgeBalik\obj\Debug\net8.0\EgeBalik.csproj.CoreCompileInputs.cache
+C:\Users\Sefa Şahiner\source\repos\EgeBalik\EgeBalik\bin\Debug\net8.0\EgeBalik.exe
+C:\Users\Sefa Şahiner\source\repos\EgeBalik\EgeBalik\bin\Debug\net8.0\EgeBalik.deps.json
+C:\Users\Sefa Şahiner\source\repos\EgeBalik\EgeBalik\bin\Debug\net8.0\EgeBalik.runtimeconfig.json
+C:\Users\Sefa Şahiner\source\repos\EgeBalik\EgeBalik\bin\Debug\net8.0\EgeBalik.dll
+C:\Users\Sefa Şahiner\source\repos\EgeBalik\EgeBalik\bin\Debug\net8.0\EgeBalik.pdb
+C:\Users\Sefa Şahiner\source\repos\EgeBalik\EgeBalik\obj\Debug\net8.0\EgeBalik.dll
+C:\Users\Sefa Şahiner\source\repos\EgeBalik\EgeBalik\obj\Debug\net8.0\refint\EgeBalik.dll
+C:\Users\Sefa Şahiner\source\repos\EgeBalik\EgeBalik\obj\Debug\net8.0\EgeBalik.pdb
+C:\Users\Sefa Şahiner\source\repos\EgeBalik\EgeBalik\obj\Debug\net8.0\EgeBalik.genruntimeconfig.cache
+C:\Users\Sefa Şahiner\source\repos\EgeBalik\EgeBalik\obj\Debug\net8.0\ref\EgeBalik.dll
